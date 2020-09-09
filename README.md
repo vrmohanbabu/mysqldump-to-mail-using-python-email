@@ -51,3 +51,7 @@ Edit mysql_dump.sh
 ## To Run
 
 * `sh mysql_dump`
+
+## Output Mail:
+
+![](output.JPG)
