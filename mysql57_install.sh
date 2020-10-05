@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # Add the new MySQL repository to the CentOS 7 server with this yum command.
-sudo yum localinstall https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
+sudo yum localinstall https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm -y
 
 # install 'mysql-community-server' with yum.
 sudo yum install mysql-community-server -y
